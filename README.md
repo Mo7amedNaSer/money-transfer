@@ -28,7 +28,7 @@ I tried to use some of topics of oop:
 #### 2. Send money :
 - Users can send money to another users using username or phone number.
 #### 3. Show money :
-- Users can know balance he has.
+- Users can know money he has.
 #### 4. Add visa :
 - System can add another visa with another type.
 #### 5.Add money:
